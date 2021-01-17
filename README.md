@@ -6,3 +6,4 @@ Liens vers mes fiches références (sites de mes repositories).
 * [JS - Boucles et quelques méthodes](https://melvdouc.github.io/JS-boucles-et-qq.github.io/)
 * [JS - preventDefault et stopPropagation](https://melvdouc.github.io/preventDefault-stopPropagation.github.io/)
 * [JS - heure et date](https://melvdouc.github.io/JS-date-and-time.github.io/)
+* [HTML, CSS, JS, jQuery - mon CV](https://melvdouc.github.io/CV-Melvin-Doucet.github.io/)
