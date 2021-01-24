@@ -7,4 +7,5 @@ Liens vers mes fiches références (sites de mes repositories).
 * [JS - preventDefault et stopPropagation](https://melvdouc.github.io/preventDefault-stopPropagation.github.io/)
 * [JS - Heure et date](https://melvdouc.github.io/JS-date-and-time.github.io/)
 * [JS - Barre nav musicale](https://melvdouc.github.io/barre-nav-musicale.github.io/)
-* [HTML, CSS, JS, jQuery - mon CV](https://melvdouc.github.io/CV-Melvin-Doucet.github.io/)
+* [JS - Horloge mécanique](https://melvdouc.github.io/horloge-mecanique.github.io/)
+* [HTML, CSS, JS - mon CV](https://melvdouc.github.io/CV-Melvin-Doucet.github.io/)
